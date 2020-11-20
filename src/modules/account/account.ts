@@ -1,4 +1,4 @@
-type Amount =  number;
+export type Amount =  number;
 
 export interface Balance {
   amount: Amount
